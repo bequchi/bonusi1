@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bonusi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save" />
+    <string name="age" />
+    <string name="enterlast_Name" />
+    <string name="entername" />
+</resources>
